@@ -23,7 +23,7 @@ public class Main extends Application {
 			stage = primaryStage;
 			primaryStage.setResizable(false);
 			BorderPane root = (BorderPane)FXMLLoader.load(getClass().getResource("LoginPage.fxml"));
-			primaryStage.setTitle("Infirmary Management System Login");
+			primaryStage.setTitle("Infirmary Management System");
 			Scene scene = new Scene(root,800,600);
 			primaryStage.getIcons().add( new Image("LogoIcon.png"));
 //			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
