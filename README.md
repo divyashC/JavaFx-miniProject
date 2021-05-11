@@ -16,6 +16,12 @@ Languages Used:
 
 'infirmary_management_system' is the database schema that consists of 6 tables
 
+To Run the Project on your system you'll need;
+  1. JDK
+  2. JavaFX SDK
+  3. MySQL JDBC 
+     configured in your project Build Path
+
 Get in touch with me on:
   Instagram - @dork_v3.0
   Twitter - @dork_v2
