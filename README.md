@@ -22,6 +22,6 @@ To Run the Project on your system you'll need;
   3. MySQL JDBC 
      configured in your project Build Path
 
-Get in touch with me on:
-  Instagram - @dork_v3.0
-  Twitter - @dork_v2
+Get in touch with me on: 
+  * Instagram - @dork_v3.0
+  * Twitter - @dork_v2
