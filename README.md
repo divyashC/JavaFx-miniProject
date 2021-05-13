@@ -22,7 +22,7 @@ To Run the Project on your system you'll need;
   3. MySQL JDBC 
      configured in your project Build Path
 
-You could check out the 'ProgramCode.pdf' file where you will find all the codes of the program compiled in a single pdf file. To have the Schema and tables in your system you could copy the 'infirmary_management_system' to your MySQL Folder in %AppData% or else execute the codes in 'CreateSchemaAndTables.sql' file.
+You could check out the 'ProgramCode.pdf' file where you will find all the codes of the program compiled in a single pdf file. To have the Schema and tables in your system you could check 'infirmary_management_system' or else execute the codes in 'CreateSchemaAndTables.sql' file.
 
 Get in touch with me on: 
   * Instagram - @dork_v3.0
