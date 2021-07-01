@@ -25,8 +25,8 @@ To Run the Project on your system you'll need;
 You could check out the 'ProgramCode.pdf' file where you will find all the codes of the program compiled in a single pdf file. To have the Schema and tables in your system you could check 'infirmary_management_system' or else execute the codes in 'CreateSchemaAndTables.sql' file.
 
 Get in touch with me on: 
-  * Instagram - @dork_v3.0
-  * Twitter - @dork_v2
+  * Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
+  * Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 
 Hope this project helps you in one way or the other.
 Thank You!!
